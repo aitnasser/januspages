@@ -1,0 +1,21 @@
+HTTrack3.48-18+htsswf+htsjava launched on Fri, 25 Jul 2014 11:29:42 at https://janus.conf.meetecho.com/echotest.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://janus.conf.meetecho.com/echotest.html -O1 "C:\My Web Sites\JanusTest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:30:00	Error: 	"Not Found" (404) at link https://janus.conf.meetecho.com/css/fonts/glyphicons-halflings-regular.eot (from https://janus.conf.meetecho.com/css/cerulean/bootstrap.css)
+11:30:00	Error: 	"Not Found" (404) at link https://janus.conf.meetecho.com/css/fonts/glyphicons-halflings-regular.eot? (from https://janus.conf.meetecho.com/css/cerulean/bootstrap.css)
+11:30:01	Error: 	"Not Found" (404) at link https://janus.conf.meetecho.com/css/fonts/glyphicons-halflings-regular.woff (from https://janus.conf.meetecho.com/css/cerulean/bootstrap.css)
+11:30:01	Error: 	"Not Found" (404) at link https://janus.conf.meetecho.com/css/fonts/glyphicons-halflings-regular.ttf (from https://janus.conf.meetecho.com/css/cerulean/bootstrap.css)
+11:30:01	Error: 	"Not Found" (404) at link https://janus.conf.meetecho.com/css/fonts/glyphicons-halflings-regular.svg (from https://janus.conf.meetecho.com/css/cerulean/bootstrap.css)
+11:30:37	Error: 	"Not Found" (404) at link https://janus.conf.meetecho.com/docs/fonts/glyphicons-halflings-regular.eot (from https://janus.conf.meetecho.com/docs/css/bootstrap.css)
+11:30:37	Error: 	"Not Found" (404) at link https://janus.conf.meetecho.com/docs/fonts/glyphicons-halflings-regular.eot? (from https://janus.conf.meetecho.com/docs/css/bootstrap.css)
+11:30:37	Error: 	"Not Found" (404) at link https://janus.conf.meetecho.com/docs/fonts/glyphicons-halflings-regular.woff (from https://janus.conf.meetecho.com/docs/css/bootstrap.css)
+11:30:37	Error: 	"Not Found" (404) at link https://janus.conf.meetecho.com/docs/fonts/glyphicons-halflings-regular.ttf (from https://janus.conf.meetecho.com/docs/css/bootstrap.css)
+11:30:37	Error: 	"Not Found" (404) at link https://janus.conf.meetecho.com/docs/fonts/glyphicons-halflings-regular.svg (from https://janus.conf.meetecho.com/docs/css/bootstrap.css)
+
+HTTrack Website Copier/3.48-18 mirror complete in 1 minutes 47 seconds : 397 links scanned, 385 files written (6941527 bytes overall) [3169533 bytes received at 29621 bytes/sec], 5017123 bytes transferred using HTTP compression in 284 files, ratio 22%, 36.1 requests per connection
+(10 errors, 0 warnings, 0 messages)
